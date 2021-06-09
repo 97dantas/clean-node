@@ -7,7 +7,7 @@
     "test": "jest",
     "prepare": "husky install",
     "lint-staged": "lint-staged",
-    "test:staged": "jest",
+    "test:watch": "jest --watch",
     "eslint": "eslint --fix"
   },
   "keywords": [],
